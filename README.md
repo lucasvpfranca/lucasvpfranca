@@ -22,7 +22,7 @@ Me chamo Lucas, Sou formado em Ciência da Computação pela UNIPÊ.   Desenvolv
 
 
 * **Frontend:**  ReactJS, Angular, Tailwind CSS, Bootstrap
-* **Backend:**  Java ☕, Spring Boot , PHP, Laravel 
+* **Backend:**  Java ☕, Spring Boot
 * **Banco de dados:** MySQL , PostgreSQL 
 * **Outras tecnologias:** Git, Docker 
 
@@ -40,9 +40,6 @@ Me chamo Lucas, Sou formado em Ciência da Computação pela UNIPÊ.   Desenvolv
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Express.js" height="30" width="40" title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
