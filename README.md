@@ -21,7 +21,7 @@ Me chamo Lucas, Sou formado em Ciência da Computação pela UNIPÊ.   Desenvolv
 ## 📚 Tecnologias
 
 
-* **Frontend:**  ReactJS, Angular, Tailwind CSS, Bootstrap
+* **Frontend:**  ReactJS, Angular, Tailwind CSS, React Native .
 * **Backend:**  Java ☕, Spring Boot
 * **Banco de dados:** MySQL , PostgreSQL 
 * **Outras tecnologias:** Git, Docker 
